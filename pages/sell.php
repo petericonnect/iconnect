@@ -51,21 +51,7 @@ form button:hover{transform:scale(1.02);}
 <option value="Refurbished">Refurbished</option>
 </select>
 
-<label for="category">Category</label>
-<select id="category" name="category" required>
-<option value="">--Select Category--</option>
-<option value="Music">Music</option>
-<option value="Tech">Tech</option>
-<option value="Gaming">Gaming</option>
-<option value="Education">Education</option>
-<option value="Trending">Trending</option>
-<option value="Latest">Latest</option>
-<option value="Comedy">Comedy</option>
-<option value="Sports">Sports</option>
-<option value="News">News</option>
-<option value="Art">Art</option>
-<option value="Live Stream">Live Stream</option>
-</select>
+
 
 <label for="tags">Tags (comma-separated)</label>
 <input type="text" id="tags" name="tags" placeholder="Optional tags">
